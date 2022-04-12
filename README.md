@@ -1,1 +1,1 @@
-# TEJ-application
+# TEJ-fellowship

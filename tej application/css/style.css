@@ -1,0 +1,15 @@
+.BOX {
+    background-color: aqua;
+    text-align: center;
+    border-radius: 10px;
+    width: max-content ;
+    margin: auto;
+    padding: 10px;
+}
+
+h1{
+    color: tomato;
+}
+.IB{
+    width: 12px;
+}
